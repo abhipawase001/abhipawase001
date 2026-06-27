@@ -295,8 +295,6 @@ I'm open to collaborating on innovative projects, discussing AI/ML solutions, an
 
 **Looking for collaborations, internships, and exciting projects in AI/ML & Full-Stack Development**
 
-![Profile Banner](https://img.shields.io/badge/Made%20with-❤️%20AI%20%26%20Data-black?style=for-the-badge)
-
 ⭐ Star my repositories if you find them helpful!
 
 </div>
