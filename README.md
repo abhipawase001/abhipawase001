@@ -6,11 +6,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhipawase001&color=10B981&style=flat-square&label=PROFILE+VIEWS)
-[![GitHub Followers](https://img.shields.io/github/followers/abhipawase001?label=FOLLOWERS&style=flat-square&color=10B981)](https://github.com/abhipawase001)
+![![GitHub Followers](https://img.shields.io/github/followers/abhipawase001?label=FOLLOWERS&style=flat-square&color=10B981)](https://github.com/abhipawase001)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhijit-pawase-aab5a3228)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:abhipawase2005@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--2219797155-green?style=flat-square)]()
 
 </div>
 
