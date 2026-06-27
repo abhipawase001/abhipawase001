@@ -6,8 +6,7 @@
 
 <div align="center">
 
-![![GitHub Followers](https://img.shields.io/github/followers/abhipawase001?label=FOLLOWERS&style=flat-square&color=10B981)](https://github.com/abhipawase001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhijit-pawase-aab5a3228)
+![![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhijit-pawase-aab5a3228)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:abhipawase2005@gmail.com)
 
 </div>
