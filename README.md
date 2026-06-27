@@ -1,4 +1,4 @@
-# 🚀 Abhishek Pawase
+# 🚀 Abhijit Vijay Pawase
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;Google+Student+Ambassador;Full+Stack+Developer;Building+Smart+Solutions" alt="Typing SVG" />
@@ -10,7 +10,6 @@
 [![GitHub Followers](https://img.shields.io/github/followers/abhipawase001?label=FOLLOWERS&style=flat-square&color=10B981)](https://github.com/abhipawase001)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhijit-pawase-aab5a3228)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:abhipawase2005@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--2219797155-green?style=flat-square)]()
 
 </div>
 
