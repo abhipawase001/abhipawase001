@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Abhishek Pawase
+# Hey there! 👋 I'm Abhijit Pawase
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
