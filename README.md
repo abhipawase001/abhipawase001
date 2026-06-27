@@ -1,12 +1,12 @@
 # 🚀 Abhijit Pawase
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;Google+Student+Ambassador;Full+Stack+Developer;Building+Smart+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;Google+Student+Ambassador;Full-Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-[![GitHub Followers](https://img.shields.io/github/followers/abhipawase001?label=FOLLOWERS&style=flat-square&color=10B981)](https://github.com/abhipawase001)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=abhipawase001&style=flat-square&color=10B981&label=PROFILE+VIEWS)](https://github.com/abhipawase001)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhijit-pawase-aab5a3228)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:abhipawase2005@gmail.com)
 
@@ -18,7 +18,7 @@
 
 **Artificial Intelligence & Data Science Engineering Undergraduate** at **Amrutvahini College of Engineering** (CGPA: 7.0/10)
 
-I'm a **Google Student Ambassador** and passionate full-stack developer building intelligent systems that solve real-world problems. With expertise in **Python, Machine Learning, Data Analytics, and Full-Stack Development**, I create scalable solutions that drive measurable impact.
+I'm a **Google Student Ambassador** and passionate full-stack developer building intelligent systems that solve real-world problems. With expertise in **Python, Machine Learning, Data Analytics, and Full-Stack Development**, I transform complex problems into elegant, scalable solutions.
 
 ```python
 engineer = {
