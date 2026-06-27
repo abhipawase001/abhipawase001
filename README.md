@@ -1,4 +1,4 @@
-# 🚀 Abhishek Pawase
+# 🚀 Abhijit Pawase
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%26+Web+Specialist;AI%2FML+Enthusiast;Building+Tomorrow's+Solutions" alt="Typing SVG" />
