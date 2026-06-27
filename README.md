@@ -203,6 +203,4 @@ I'm always interested in discussing innovative ideas, open-source contributions,
 
 Thanks for visiting! Don't forget to ⭐ star my repositories if you find them useful!
 
-![Profile Banner](https://img.shields.io/badge/Made%20with-❤️%20and%20Coffee-black?style=for-the-badge)
-
 </div>
