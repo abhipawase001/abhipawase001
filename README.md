@@ -22,7 +22,7 @@ I'm a **Google Student Ambassador** and passionate full-stack developer building
 
 ```python
 engineer = {
-    "name": "Abhishek Pawase",
+    "name": "Abhijit Pawase",
     "title": "AI & Data Science Engineer",
     "education": "B.Tech in AI & Data Science (2023-2027)",
     "current_role": "Google Student Ambassador",
