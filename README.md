@@ -1,7 +1,7 @@
 # 🚀 Abhijit Pawase
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;Google+Student+Ambassador" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;Google+Student[...]
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 **Artificial Intelligence & Data Science Engineering Undergraduate** at **Amrutvahini College of Engineering** (CGPA: 7.0/10)
 
-I'm a **Google Student Ambassador** and passionate full-stack developer building intelligent systems that solve real-world problems. With expertise in **Python, Machine Learning, Data Analytics**, and **Full-Stack Development**, I transform data into actionable insights and create scalable, intelligent solutions.
+I'm a **Google Student Ambassador** and passionate full-stack developer building intelligent systems that solve real-world problems. With expertise in **Python, Machine Learning, Data Analytics**,[...]
 
 ```python
 engineer = {
@@ -39,12 +39,9 @@ engineer = {
 ### 🛤️ Project Sarthi - Real-Time Transit & Fleet Management Platform
 **[View Repository](https://github.com/abhipawase001/Project-Sarthi)** | 12/2025 - Present
 
-**Real-time transit telemetry and fleet management platform**
-- 📍 **Increased municipal operational efficiency by 70%** through intelligent transit management
-- 🗺️ Integrated sophisticated anomaly detection algorithms and dynamic Live Map geospatial components
-- ⚡ Optimized backend logistics with concurrent data streams → **80% fleet dispatch efficiency**
-- 🚨 Real-time telemetry & incident response system
-
+Real-time transit telemetry and fleet management platform.
+- 📍 Increased municipal operational efficiency through intelligent transit management.
+- ⚡ Optimized backend logistics with concurrent data streams for better dispatching.
 **Tech Stack:** Python, TypeScript, Microservices, Real-time Data Processing, Geospatial Analytics
 
 ---
@@ -52,37 +49,60 @@ engineer = {
 ### 🎯 Project Drishti - Smart Crowd Safety & Predictive Analytics
 **[View Repository](https://github.com/abhipawase001/Project--Drishti)** | 01/2026 - 05/2026
 
-**Vision-based analytics platform for crowd safety and anomaly detection**
-- 👥 **Improved crowd safety compliance by 60%** at events hosting 40,000+ attendees
-- 🤖 Implemented predictive analytic models and scanner components → **75% accuracy** in threat mitigation
-- 📡 Built robust asynchronous alerting pipeline with SMS webhooks for real-time threat response
-- 🔍 Computer vision-powered incident detection and tracking
+Vision-based analytics platform for crowd safety and anomaly detection.
+- 👥 Computer-vision models and an asynchronous alerting pipeline for large events.
+**Tech Stack:** Python, TensorFlow, PyTorch, Computer Vision, Anomaly Detection
 
-**Tech Stack:** Python, TensorFlow, PyTorch, Computer Vision, Keras, Anomaly Detection
+---
+
+### 🧭 CrowdSync AI — Volunteer Co-Pilot (new)
+**[View Repository](https://github.com/abhipawase001/CrowdSync-Ops-AI)** | 2026
+
+Real-time explainable AI co-pilot for stadium volunteers — turns live gate telemetry + natural-language reports into actionable guidance and multilingual safety scripts.
+- ⚡ ~1–2s AI guidance with deterministic fallback and auditable XAI ops logs.
+**Tech Stack:** TypeScript, React (TanStack Start), Tailwind, Google Gemini (LLM), Zod
+
+---
+
+### 🤝 Meeting-Mind (new)
+**[View Repository](https://github.com/abhipawase001/Meeting-Mind)** | 2026
+
+Meeting-focused web app (scheduling/notes/assistive workflows).
+- 📝 Streamlined meeting flows and UI-first design built with modern TS tooling.
+**Tech Stack:** TypeScript, React
+
+---
+
+### 🧠 Default-Prediction-Model (new)
+**[View Repository](https://github.com/abhipawase001/Default-Prediction-Model)** | 2026
+
+Template / scaffold for predictive models and inference pipelines.
+- 🔧 Baseline model training + evaluation scaffolding and data-processing utilities.
+**Tech Stack:** TypeScript (project scaffolding), Python (modeling can be integrated)
+
+---
+
+### ☁️ openlake (fork) (new)
+**[View Repository](https://github.com/abhipawase001/openlake)**
+
+OpenLake — high-performance storage engine for efficient LLM inference and GPU training (fork).
+**Tech Stack / Notes:** storage engine for LLM workloads; Apache-2.0 licensed (see repo for upstream details)
 
 ---
 
 ### 🏥 MSME Early-Warning System - Predictive Business Analytics
-**[View Repository](https://github.com/abhipawase001/MSME_Early-Warning-System)** | [Live Application](https://msme-earl-warning.netlify.app/) | Recent
+**[View Repository](https://github.com/abhipawase001/MSME_Early-Warning-System)** | Recent
 
-**Intelligent early-warning system for MSME business failure prediction**
-- 📉 Predictive machine learning models for business health forecasting
-- 📊 Data-driven risk assessment and financial analytics
-- 💡 Machine learning architecture for early intervention
-
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Data Analytics
+Intelligent early-warning system for MSME business failure prediction.
+**Tech Stack:** Python, Pandas, Scikit-learn, Data Analytics
 
 ---
 
 ### 🎫 Milan Tours & Travels - Full-Stack Booking Engine
 **[View Repository](https://github.com/abhipawase001/Milan-Tours-Travels-Booking-Engine)** | 05/2026
 
-**Scalable full-stack booking infrastructure for cab and tour reservations**
-- 🏗️ Constructed scalable microservices-based architecture
-- 📱 Digitized logistics protocols and database management → **60% Depot overhead reduction**
-- 💾 Paper-based tracking eliminated through digital transformation
-
-**Tech Stack:** Full-Stack, Database Design, Microservices, Logistics Optimization
+Scalable microservices-based booking platform for travel & cab reservations.
+**Tech Stack:** Full-Stack, Microservices, Database Design
 
 ---
 
@@ -90,6 +110,7 @@ engineer = {
 **[View Repository](https://github.com/abhipawase001/My_Portfolio)**
 
 Interactive portfolio showcasing professional work and technical journey.
+**Live:** https://my-portfolio-iota-swart-31.vercel.app
 
 ---
 
@@ -199,7 +220,7 @@ Interactive portfolio showcasing professional work and technical journey.
 ![Top Languages](https://github-readme-stats.herokuapp.com/api/top-langs/?username=abhipawase001&layout=compact&theme=dark&hide_border=true&title_color=10B981&text_color=FFFFFF&icon_color=10B981)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.herokuapp.com/api?username=abhipawase001&show_icons=true&theme=dark&hide_border=true&title_color=10B981&text_color=FFFFFF&icon_color=10B981&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.herokuapp.com/api?username=abhipawase001&show_icons=true&theme=dark&hide_border=true&title_color=10B981&text_color=FFFFFF&icon_color=10B981&rank_icon=g[...]
 
 </div>
 
