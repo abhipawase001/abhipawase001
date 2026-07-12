@@ -317,3 +317,17 @@ I'm open to collaborating on innovative projects, discussing AI/ML solutions, an
 ⭐ Star my repositories if you find them helpful!
 
 </div>
+
+---
+
+## All Projects
+
+- [abhipawase001](https://github.com/abhipawase001/abhipawase001) — Personal profile README and links that showcase projects and contact information.
+- [CrowdSync-Ops-AI](https://github.com/abhipawase001/CrowdSync-Ops-AI) — Real-time explainable AI co-pilot for stadium volunteers (TypeScript, React, Tailwind, Google Gemini).
+- [Default-Prediction-Model](https://github.com/abhipawase001/Default-Prediction-Model) — Template/scaffold for predictive models and inference pipelines (training + evaluation tooling).
+- [Meeting-Mind](https://github.com/abhipawase001/Meeting-Mind) — Meeting-focused web app for scheduling, notes, and assistive workflows (TypeScript/React).
+- [My_Portfolio](https://github.com/abhipawase001/My_Portfolio) — Interactive portfolio (Live: https://my-portfolio-iota-swart-31.vercel.app).
+- [openlake](https://github.com/abhipawase001/openlake) — Fork of OpenLake — storage engine optimized for LLM inference and GPU training (Apache-2.0).
+- [Project--Drishti](https://github.com/abhipawase001/Project--Drishti) — Vision-based crowd safety & predictive analytics platform (CV models + alerting pipeline).
+- [Project-Sarthi](https://github.com/abhipawase001/Project-Sarthi) — Real-time transit & fleet management platform (telemetry, dispatching, geospatial analytics).
+
