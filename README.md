@@ -271,7 +271,7 @@ I'm open to collaborating on innovative projects, discussing AI/ML solutions, an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijit-pawase-aab5a3228)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhipawase001)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhipawase2005@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-%2B91--2219797155-green?style=for-the-badge&logo=phone&logoColor=white)]()
+[![Phone](https://img.shields.io/badge/Call-%2B91--7219797155-green?style=for-the-badge&logo=phone&logoColor=white)]()
 
 </div>
 
