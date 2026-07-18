@@ -48,6 +48,7 @@ Real-time transit telemetry and fleet management platform leveraging geospatial 
 - 🚀 Microservices architecture enabling independent service scaling
 
 **Tech Stack:** Python, TypeScript, Microservices, Real-time Data Processing, Geospatial Analytics, WebSockets
+
 **Live:** https://project-sarthi.vercel.app/
 ---
 
