@@ -80,6 +80,7 @@ Real-time explainable AI co-pilot for stadium volunteers — turns live gate tel
 - ♿ Accessibility-first UI design with WCAG compliance
 
 **Tech Stack:** TypeScript, React (TanStack Start), Tailwind CSS, Google Gemini API, Zod validation
+
 **Live:** https://crowd-sync-ops-ai.vercel.app/
 
 ---
@@ -113,20 +114,6 @@ Enterprise-ready template and scaffold for predictive models and inference pipel
 - 🛡️ Data validation and quality checks
 
 **Tech Stack:** TypeScript (project scaffolding), Python (modeling integration-ready)
-
----
-
-### ☁️ openlake (fork)
-**[View Repository](https://github.com/abhipawase001/openlake)**
-
-OpenLake — high-performance storage engine optimized for efficient LLM inference and GPU training workloads.
-- ⚡ Vectorized storage format for rapid LLM inference
-- 🚀 GPU-optimized memory layout and access patterns
-- 📊 Efficient batching and prefetching mechanisms
-- 🔄 Distributed training support with sharded data loading
-- 📈 Benchmark suite for performance validation
-
-**Tech Stack:** Storage engine for LLM workloads; Apache-2.0 licensed (see repo for upstream details)
 
 ---
 
