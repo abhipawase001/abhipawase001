@@ -80,6 +80,7 @@ Real-time explainable AI co-pilot for stadium volunteers — turns live gate tel
 - ♿ Accessibility-first UI design with WCAG compliance
 
 **Tech Stack:** TypeScript, React (TanStack Start), Tailwind CSS, Google Gemini API, Zod validation
+**Live:** https://crowd-sync-ops-ai.vercel.app/
 
 ---
 
