@@ -47,9 +47,9 @@ Real-time transit telemetry and fleet management platform leveraging geospatial 
 - 🔄 Asynchronous event processing for high-throughput telemetry ingestion
 - 🚀 Microservices architecture enabling independent service scaling
 
-**Tech Stack:** Python, TypeScript, Microservices, Real-time Data Processing, Geospatial Analytics, WebSockets
-
+**Tech Stack:** Python, TypeScript, Microservices, Real-time Data Processing, Geospatial Analytics, WebSockets  
 **Live:** https://project-sarthi.vercel.app/
+
 ---
 
 ### 🎯 Project Drishti - Smart Crowd Safety & Predictive Analytics
