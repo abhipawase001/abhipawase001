@@ -47,7 +47,8 @@ Real-time transit telemetry and fleet management platform leveraging geospatial 
 - 🔄 Asynchronous event processing for high-throughput telemetry ingestion
 - 🚀 Microservices architecture enabling independent service scaling
 
-**Tech Stack:** Python, TypeScript, Microservices, Real-time Data Processing, Geospatial Analytics, WebSockets  
+**Tech Stack:** Python, TypeScript, Microservices, Real-time Data Processing, Geospatial Analytics, WebSockets
+
 **Live:** https://project-sarthi.vercel.app/
 
 ---
@@ -80,6 +81,7 @@ Real-time explainable AI co-pilot for stadium volunteers — turns live gate tel
 - ♿ Accessibility-first UI design with WCAG compliance
 
 **Tech Stack:** TypeScript, React (TanStack Start), Tailwind CSS, Google Gemini API, Zod validation
+
 **Live:** https://crowd-sync-ops-ai.vercel.app/
 
 ---
@@ -97,6 +99,7 @@ Meeting-focused web application streamlining scheduling, note-taking, and assist
 - 🌙 Dark mode and responsive design for all devices
 
 **Tech Stack:** TypeScript, React, Modern TS tooling, Responsive Design
+
 **Live:** https://meeting-mind-sooty.vercel.app/
 
 ---
@@ -114,6 +117,7 @@ Enterprise-ready template and scaffold for predictive models and inference pipel
 - 🛡️ Data validation and quality checks
 
 **Tech Stack:** TypeScript (project scaffolding), Python (modeling integration-ready)
+
 **Live:** https://default-prediction-model-tau.vercel.app/
 
 ---
@@ -130,6 +134,7 @@ Intelligent early-warning system for MSME business failure prediction using adva
 - 🎯 Business recommendations engine based on risk factors
 
 **Tech Stack:** Python, Pandas, Scikit-learn, Data Analytics, Statistical Analysis
+
 **Live:** https://msme-earl-warning.netlify.app/
 
 ---
