@@ -66,6 +66,8 @@ Vision-based analytics platform for crowd safety and anomaly detection at large-
 
 **Tech Stack:** Python, TensorFlow, PyTorch, Computer Vision, Anomaly Detection, Real-time Processing
 
+**Live:** https://project-drishti-smoky.vercel.app/
+
 ---
 
 ### 🧭 CrowdSync AI — Volunteer Co-Pilot
